@@ -3,7 +3,7 @@
 このComponent では、OpenShift 上に CI/CD パイプラインを備えた Node.js サンプルアプリケーションをデプロイします。
 
 ## デプロイされるリポジトリ
-この Golden Path を実行すると、以下 2 種類のリポジトリが生成されます。
+この Golden Path を実行すると、以下 2 種類のリポジトリが生成されます。xxxxxxx
 
 * `nodejs-dev-x03-app` – アプリケーションのサンプルコードと Dockerfile を格納  
 * `nodejs-dev-x03-manifest` – K8s マニフェストと CI/CD 関連ファイルを格納  
