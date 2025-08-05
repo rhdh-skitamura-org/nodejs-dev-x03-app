@@ -24,7 +24,6 @@ metadata:
     janus-idp.io/tekton: nodejs-dev-x03
     janus-idp.io/tekton-enabled: "true"
     github.com/project-slug: rhdh-skitamura-org/nodejs-dev-x03-app
-    quay.io/repository-slug: skitamura-quay-org/nodejs-dev-x03/nodejs-dev-x03
     argocd/app-selector: argocd.argoproj.io/instance=nodejs-dev-x03-bootstrap
     tektonci/build-namespace: nodejs-dev-x03
     backstage.io/kubernetes-id: nodejs-dev-x03
